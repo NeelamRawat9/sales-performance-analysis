@@ -49,8 +49,8 @@ The Power BI dashboard provides a comprehensive overview of sales performance:
 ## 📬 Contact  
 If you’d like to connect or collaborate on data projects:  
 
-- 👤 **Your Name**  
-- 🔗 [LinkedIn](#)  
-- 📧 [Email](#)  
+- 👤 **Neelam Rawat**  
+- 🔗 [https://www.linkedin.com/in/neelam-rawat-77a463296/](#)  
+- 📧 [nr14290@gmail.com](#)  
 
 ---
