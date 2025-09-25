@@ -9,7 +9,6 @@ It highlights how raw transactional data can be transformed into meaningful insi
 ## 📂 Project Structure  
 - 📁 **sales_performance_queries.sql** → SQL queries used for analysis  
 - 📁 **powerbi_dashboard.png** → Dashboard screenshot  
-- *(Optional: `sales_performance.pbix` → Power BI file for interactive exploration)*  
 
 ---
 
@@ -23,9 +22,6 @@ The Power BI dashboard provides a comprehensive overview of sales performance:
 - 💳 **Payment Methods:** Transaction distribution across different methods  
 - 👥 **Customer Segmentation:** Revenue by Age Group  
 - 🏆 **Top Customers:** Highest revenue-generating users  
-
-### 🔎 Dashboard Preview  
-![Sales Dashboard](powerbi_dashboard.png)  
 
 ---
 
